@@ -1,3 +1,9 @@
+# Ruby Array 
+ary = ["fred", 10, 3.14, "This is a String.", 'last element', ]
+ary.each do |i|
+  puts i
+end
+
 # Create Array
 names = Array.new();
 puts "#{names}";
